@@ -1,0 +1,60 @@
+FAQ
+
+1. What is the role of administrator ?
+Administrator need to login the HRM system in order to allow HR admin, Academic leader and lecturer to
+access the main menu page.
+
+2. Role of HR
+  - Can create new Lecturer/ Academic Leader’s profile and provide them login id and password to access the system.
+  - Can modify, delete, view and search lecturer profile accordingly.
+  - Can view the employee leave status.
+  - Can upload the yearly leaves in system.
+  - Can upload the Public and University Holidays.
+  - Can update and upload FAQs about University’s Leave Policies in system.
+
+3. Academic leader
+  - Can view lecturer’s leave application.
+  - Can approve/reject the leave.
+  - Can delete the leave applications.
+  - Can view all public and University Holidays, also University’s Leave Policies.
+
+4. Lecturer
+  - Can view lecturer’s leave application.
+  - Can approve/reject the leave.
+  - Can delete the leave applications.
+  - Can view all public and University Holidays, also University’s Leave Policies.
+
+
+5 Types of leave
+5.1 Annual leave is a facility given to every staff annually for the wellbeing of the staff and also to 
+    improve the productivity and efficiency of the staff. 
+
+SICK LEAVE
+5.2- Paid sick leave is given to staff who cannot report for duty after being confirmed by a medical officer 
+     or a medical board or a panel doctor as unfit for carrying out his/her duty. 
+   - Contract staff qualify for sick leave not exceeding 15 days per year. 
+   - The length of sick leave and the authority to approve are as follows.
+
+MATERNITY LEAVE
+5.3 Maternity leave is a benefit given to female staff for maximum 300 days inclusive of weekends and public holidays. 
+    Staff is given flexibility to choose within 60 days to 90 days maternity leave. 
+
+COMPASSIONATE LEAVE 
+5.4 The leave can be entitlement for compassionate leave for the death of immediate family. For example, parent in law, spouse,
+    children, sister-brother and grandparent.
+
+MARRIAGE LEAVE
+5.5 Five days leave for first legal marriage per employment. The leave must be apply 1 week before the employee marriage.
+
+LEAVE FOR SITTING FOR EXAMINATION OR STUDY LEAVE
+5.6 -Subject to approval, unrecorded leave is given to staff to attend any  examination that is regarded beneficial to the 
+     organization or can improve the career of the staff concerned. 
+    - The leave should be limited to the days needed for that examination only. 
+
+PATERNITY LEAVE   
+5.7  The University authority can approve the leave once the maternity leave is submitted. 
+
+
+ 
+
+

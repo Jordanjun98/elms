@@ -1,0 +1,11 @@
+EMPLOYEE LEAVE MANAGEMENT SYSTEM v1.00
+======================================
+
+Welcome to the ELMS system which will be used for Education section organization.
+
+There are 4 types of user which are administrator, HR admin,academic leader and lecturers.Administrator
+must login the page in order to allow HR admin, academic leader and lecturer to access the main menu.
+This system consists of creation and management of leave policy, leave balancing, FAQs about company, 
+list of public and company holidays.User should enter appropriate input for every section in the 
+system but not junk input. The yearly employee public and university holidays can by updated,edit and
+view.
